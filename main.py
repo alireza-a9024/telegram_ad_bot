@@ -4,7 +4,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 from keep_alive import keep_alive  # Keeps bot online
 
 # 🔑 Replace with your actual bot token
-TOKEN = "8168930498:AAGWAxmqpripzqvTactp-1JkTWFeeXVAc-Q"
+TOKEN = "#################################"
 ADMIN_ID = 176306979  # Replace with your Telegram user ID
 
 ads_waiting_approval = {}
